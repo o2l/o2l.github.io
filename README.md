@@ -1,2 +1,3 @@
-# o2l.github.io
-[a link](/projects/vue-snake)
+# Welcome
+Projects
+[Vue Snake Game](/projects/vue-snake)
